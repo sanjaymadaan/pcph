@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class 3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
      List<List<Integer>> list ;
      list = new ArrayList<List<Integer>>();
