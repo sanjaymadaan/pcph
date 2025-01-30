@@ -3,7 +3,7 @@ import java.util.LinkedHashMap;
 import java.util.Map.Entry;
 import java.util.Set;
 
-class Solution {
+class FirstUniqueCharacterinaString {
     public int firstUniqChar(String s) {
     
 	LinkedHashMap<Character, Integer> hm;
