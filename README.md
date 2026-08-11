@@ -6,6 +6,6 @@ This repository contains the LeetCode problems for PCPH.
 
 | Problem No. | Problem Name | Primary Technique | Difficulty |
 |------------|--------------|-------------------|------------|
-| 1 | Two Sum | HashMap | Easy |
+| 1 | Two Sum | Array | Easy |
 | 11 | Container With Most Water | Two Pointers | Medium |
 
