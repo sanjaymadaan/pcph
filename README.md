@@ -16,3 +16,7 @@ This repository contains the LeetCode problems for PCPH.
 | 974 | Subarray Sums Divisible by K | Array (Prefix Sum) | Medium |
 | 189 | Rotate Array | Array (Two Pointer) | Medium |
 
+## Stack
+
+| 1 | Introduction to Stack |
+| 1 | Array Implementation of Stack |
