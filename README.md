@@ -18,7 +18,7 @@ This repository contains the LeetCode problems for PCPH.
 
 ## Stack
 
-| Problem No. | Problem Name | Primary Technique | Difficulty |
+| Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
 |------------|--------------|-------------------|------------|
 | 1 | Introduction to Stack |  |  |
-| 1 | Array Implementation of Stack |  |  |
+| 2 | Array Implementation of Stack |  |  |
