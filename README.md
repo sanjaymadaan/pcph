@@ -16,6 +16,17 @@ This repository contains the LeetCode problems for PCPH.
 | 974 | Subarray Sums Divisible by K | Array (Prefix Sum) | Medium |
 | 189 | Rotate Array | Array (Two Pointer) | Medium |
 
+## String
+
+| Problem No. | Problem Name | Primary Technique | Difficulty |
+|------------|--------------|-------------------|------------|
+| 242 | Valid Anagram | String, Sorting | Easy |
+| 125 | Valid Palindrome | String | Easy |
+| 387 | First Unique Character in a String | String | Easy |
+| 151 | Reverse Words in a String | String | Medium |
+
+
+
 ## Stack
 
 | Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
