@@ -1,0 +1,28 @@
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        String reqstr = new String("");
+        int minLength = Integer.MAX_VALUE;
+        for(int i = 0; i < strs.length; i++){
+            if(strs[i].length() < minLength){
+                minLength = strs[i].length();
+                reqstr = strs[i];
+            }
+        }
+        int length = reqstr.length();
+        boolean isOkay = true;
+        
+        for(int k = 1; k <= length; k++){
+                isOkay = true;
+                for(int i = 0; i < strs.length && isOkay; i++){
+                    String currentWord = strs[i];
+                    if(!currentWord.startsWith(reqstr)){
+                        isOkay = false;
+                    }
+                }
+                if(isOkay)
+                    break;
+                reqstr = reqstr.substring(0, reqstr.length() - 1);
+            }
+        return reqstr;
+    }
+}
