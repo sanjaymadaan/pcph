@@ -24,6 +24,7 @@ This repository contains the LeetCode problems for PCPH.
 | 125 | Valid Palindrome | String | Easy |
 | 387 | First Unique Character in a String | String | Easy |
 | 151 | Reverse Words in a String | String | Medium |
+| 14 | Longest Common Prefix | String | Easy |
 
 
 
