@@ -17,34 +17,31 @@ package com.company.number;
 
 public class SumOfSumOfSquare {
 	public static int reverseNumber(int number) {
-		int reqNumber = 0;
-		String strNum = Integer.toString(number);
-		StringBuilder sb = new StringBuilder(strNum);
+		int revNum = 0;
+		String str = Integer.toString(number);
+		StringBuilder sb = new StringBuilder(str);
 		sb.reverse();
-		reqNumber = Integer.parseInt(sb.toString());
-		return reqNumber;
+		revNum = Integer.parseInt(sb.toString());
+		return revNum;
 	}
-	
-	public static int sumOfSumOfSquare(int number) {
-		int sumOfResults = 0;
-		number = reverseNumber(number);
+	public static int sumOfSquare(int number) {
+		int result = 0;
 		while(number != 0) {
-			int var = number;
-			int result = 0;
-			while(var != 0) {
-				int digit = var % 10;
-				result = result + digit * digit;
-				var = var / 10;
-			}
-			sumOfResults = sumOfResults + result;
-			number = number / 10;
+			int digit = number % 10;
+			result = result + digit * digit;
+			number /= 10;
 		}
-		return sumOfResults;
+		return result;
 	}
 	public static void main(String[] args) {
-		int number  = 234;
-		int result = sumOfSumOfSquare(number);
-		System.out.println("Number = " + number);
-		System.out.println("Result = " + result);
+		int number = 1234;
+		int reqNum = reverseNumber(number);
+		int reqTotal = 0;
+		
+		while(reqNum != 0) {
+			reqTotal = reqTotal + sumOfSquare(reqNum);  //4321
+			reqNum = reqNum / 10;
+		}
+		System.out.println("Result = " + reqTotal);
 	}
 }
