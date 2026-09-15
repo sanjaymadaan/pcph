@@ -1,5 +1,20 @@
 package com.company.number;
 
+
+//Sum of Sum of Square of Digits in Cyclic Order
+//
+//1234
+//
+//12 + 22 + 32 + 42  = 1+4+9+16 = 30
+//234
+//22 + 32 + 42  = 4+9+16 = 29
+//34
+//32 + 42  =  9+16 = 25
+//4
+//42  =  16 = 16
+//
+//30 + 29 + 25 + 16 = 100
+
 public class SumOfSumOfSquare {
 	public static int reverseNumber(int number) {
 		int reqNumber = 0;
