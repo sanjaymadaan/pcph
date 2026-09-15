@@ -32,6 +32,10 @@ This repository contains the LeetCode problems for PCPH.
 | Problem No. | Problem Name | Primary Technique | Difficulty |
 |------------|--------------|-------------------|------------|
 | 258 | Add Digits | Math | Easy |
+| GFG | Armstrong Number | [Math, Two Pointer](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy |
+| 202 | Happy Number | Math, Two Pointer | Easy |
+
+
 ## Stack
 
 | Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
