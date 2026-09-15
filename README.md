@@ -27,7 +27,11 @@ This repository contains the LeetCode problems for PCPH.
 | 14 | Longest Common Prefix | String | Easy |
 
 
+## Number Based
 
+| Problem No. | Problem Name | Primary Technique | Difficulty |
+|------------|--------------|-------------------|------------|
+| 258 | Add Digits | Math | Easy |
 ## Stack
 
 | Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
