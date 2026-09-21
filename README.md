@@ -35,6 +35,8 @@ This repository contains the LeetCode problems for PCPH.
 | GFG | Armstrong Number | [Math, Two Pointer](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy |
 | 202 | Happy Number | Math, Two Pointer | Easy |
 | 2243| Calculate Digit Sum of a String | String | Easy |
+| 2544| Alternating Digit Sum | Math | Easy |
+| 1945| Sum of Digits of String After Convert | String | Easy |
 
 ## Stack
 
