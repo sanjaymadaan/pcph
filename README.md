@@ -49,8 +49,6 @@ This repository contains the LeetCode problems for PCPH.
 | 143 | Reorder List | Linked List | Medium |
 | 876 | Middle of the Linked List | Linked List | Easy |
 
-| 21 | Merge Two Sorted Lists | Linked List | Easy |
-
 ## Stack
 
 | Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
