@@ -38,9 +38,23 @@ This repository contains the LeetCode problems for PCPH.
 | 2544| Alternating Digit Sum | Math | Easy |
 | 1945| Sum of Digits of String After Convert | String | Easy |
 
+## LinkedList
+
+| Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
+|------------|--------------|-------------------|------------|
+| 206 | Reverse Linked List | Linked List | Easy |
+| 21 | Merge Two Sorted Lists | Linked List | Easy |
+| 141 | Linked List Cycle | Linked List | Easy |
+| 160 | Intersection of Two Linked Lists | Linked List | Easy |
+| 143 | Reorder List | Linked List | Medium |
+| 876 | Middle of the Linked List | Linked List | Easy |
+
+| 21 | Merge Two Sorted Lists | Linked List | Easy |
+
 ## Stack
 
 | Topic/Problem No. | Topic/Problem Name | Primary Technique | Difficulty |
 |------------|--------------|-------------------|------------|
 | 1 | Introduction to Stack |  |  |
 | 2 | Array Implementation of Stack |  |  |
+
