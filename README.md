@@ -55,4 +55,9 @@ This repository contains the LeetCode problems for PCPH.
 |------------|--------------|-------------------|------------|
 | 1 | Introduction to Stack |  |  |
 | 2 | Array Implementation of Stack |  |  |
+| 20 | Valid Parentheses |  |  |
+| 155 | Min Stack |  |  |
+| 232 | Implement Queue using Stacks |  |  |
+| 225 | Implement Stack using Queues |  |  |
+
 
